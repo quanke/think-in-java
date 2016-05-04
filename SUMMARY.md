@@ -64,5 +64,5 @@
 * [附录A 使用非JAVA代码](附录A 使用非JAVA代码.md)
 * [附录B 对比C++和Java](附录B 对比C++和Java.md)
 * [附录C Java编程规则](附录C Java编程规则.md)
-* 附录D 性能
+* [附录D 性能](附录D 性能.md)
 
