@@ -5,3 +5,5 @@ Thinking in Java (Java 编程思想)
 阅读地址：https://www.gitbook.com/read/book/quanke/think-in-java
 
 下载地址：https://www.gitbook.com/book/quanke/think-in-java/
+
+编辑：http://quanke.name
