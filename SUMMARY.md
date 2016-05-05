@@ -99,7 +99,7 @@
    * [10.3 本身的缺陷：RandomAccessFile](10.3 本身的缺陷：RandomAccessFile.md)
    * [10.4 File类](10.4 File类.md)
    * [10.5 IO流的典型应用](10.5 IO流的典型应用.md)
-   * 10.6 StreamTokenizer
+   * [10.6 StreamTokenizer](10.6 StreamTokenizer.md)
 * [第11章 运行期类型鉴定](第11章 运行期类型鉴定.md)
 * [第12章 传递和返回对象](第12章 传递和返回对象.md)
 * [第13章 创建窗口和程序片](第13章 创建窗口和程序片.md)
