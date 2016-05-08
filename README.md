@@ -8,4 +8,6 @@
 
 下载地址：https://www.gitbook.com/book/quanke/think-in-java/
 
+github地址：https://github.com/quanke/think-in-java
+
 编辑：http://quanke.name
