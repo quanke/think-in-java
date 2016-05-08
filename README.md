@@ -11,3 +11,7 @@
 github地址：https://github.com/quanke/think-in-java
 
 编辑：http://quanke.name
+
+第13章没有编辑，觉得没有意义，Java的GUI先在应用少，有时间在编辑好。。。
+
+编辑整理辛苦，还望大神们点一下star ，抚平我虚荣的心
