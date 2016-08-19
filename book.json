@@ -1,1 +1,61 @@
-{}
+{
+
+ "plugins": [
+
+ "layout",
+
+ "baidu",
+
+ "edit-link",
+
+
+
+ "tbfed-pagefooter",
+
+ "ga"
+
+ ],
+
+ "pluginsConfig": {
+
+ "headerPath": "layouts/header.html",
+
+ "footerPath": "layouts/footer.html",
+
+ "baidu": {
+
+ "token": "0dc0e6ff81f835b8c1dbd9c41fb21c2b"
+
+ },
+
+
+
+ "tbfed-pagefooter": {
+
+ "copyright":"Copyright &copy quanke.name 2016",
+
+ "modify_label": "该文件修订时间：", "modify_format": "YYYY-MM-DD HH:mm:ss" } ,
+
+ "edit-link": {
+
+ "base": "https://github.com/quanke/think-in-java/edit/master", "label": "Edit This Page" },
+
+ "ga": {
+
+ "token": "UA-82833335-2"
+
+ }
+
+ },
+
+ "links": {
+
+ "sidebar": {
+
+ "Home": "http://quanke.name"
+
+ }
+
+ }
+
+}
