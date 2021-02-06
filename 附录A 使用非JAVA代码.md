@@ -236,7 +236,7 @@ A.1.4 JNI和Java异常
 ■Throw()：丢弃一个现有的异常对象；在固有方法中用于重新丢弃一个异常。
 ■ThrowNew()：生成一个新的异常对象，并将其丢弃。
 ■ExceptionOccurred()：判断一个异常是否已被丢弃，但尚未清除。
-■ExceptionDescribe()：打印一个异常和堆栈跟踪信息。
+■ExceptionDescribe()：打印一个异常和栈跟踪信息。
 ■ExceptionClear()：清除一个待决的异常。
 ■FatalError()：造成一个严重错误，不返回。
 ```
