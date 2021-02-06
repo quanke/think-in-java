@@ -27,7 +27,7 @@ D.2.1 安插自己的测试代码
 
 插入下述“显式”计时代码，对程序进行评测：
 
-```
+``` java
 long start = System.currentTimeMillis();
 // 要计时的运算代码放在这儿
 long time = System.currentTimeMillis() - start;
@@ -42,13 +42,13 @@ JDK配套提供了一个内建的评测程序，能跟踪花在每个例程上�
 
 为运行评测程序，请在调用Java解释器的未优化版本时加上-prof选项。例如：
 
-```
+``` java
 java_g -prof myClass
 ```
 
 或加上一个程序片（Applet）：
 
-```
+``` java
 java_g -prof sun.applet.AppletViewer applet.html
 ```
 
@@ -84,7 +84,7 @@ D.3.2 依赖语言的方法
 
 运算 示例 标准时间
 
-```
+``` java
 本地赋值 i=n; 1.0
 实例赋值 this.i=n; 1.2
 int增值 i++; 1.5
@@ -124,7 +124,7 @@ D.3.3 特殊情况
 
 ■字串的开销：字串连接运算符+看似简单，但实际需要消耗大量系统资源。编译器可高效地连接字串，但变量字串却要求可观的处理器时间。例如，假设s和t是字串变量：
 
-```
+``` java
 System.out.println("heading" + s + "trailer" + t);
 ```
 
